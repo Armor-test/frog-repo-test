@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A test project for Dependabot",
   "dependencies": {
-    "lodash": "4.17.10",
+    "lodash": "4.17.21",
     "python": "3.14.0"
   }
 }
